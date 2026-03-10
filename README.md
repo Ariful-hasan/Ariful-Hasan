@@ -4,7 +4,7 @@
 
 > Senior Software Engineer based in Mülheim an der Ruhr, Germany. Specialized in Fintech (CashToCode), Microservices, and building scalable web architectures.
 
-[**View Live Portfolio →**](https://ariful-hasan.github.io/Ariful-Hasan/)
+[**View Live Portfolio →**](https://ariful-hasan.github.io/Ariful-hasan/)
 
 ---
 
