@@ -32,6 +32,26 @@ const { title } = Astro.props;
 
 		<meta property="twitter:card" content="summary_large_image" />
 		<meta property="twitter:title" content="Ariful Hasan | Senior Software Developer" />
+
+		<script type="application/ld+json">
+			{
+			"@context": "https://schema.org",
+			"@type": "Person",
+			"name": "Ariful Hasan",
+			"jobTitle": "Senior Full-Stack Software Developer",
+			"url": "https://ariful-hasan.github.io/Ariful-Hasan/",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "Berlin",
+				"addressCountry": "Germany"
+			},
+			"sameAs": [
+				"https://github.com/Ariful-Hasan",
+				"https://linkedin.com/in/arifulhasan1"
+			]
+			}
+		</script>
+
 	</head>
 	<body class="bg-slate-950 text-slate-200">
 		<Navbar />

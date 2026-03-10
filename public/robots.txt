@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ariful-hasan.github.io/Ariful-Hasan/sitemap-index.xml
