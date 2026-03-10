@@ -1,0 +1,8 @@
+{
+  "title": "Genuity Training ERP",
+  "description": "Architected and engineered a full-cycle Training Management System from scratch. Designed the database schema and end-to-end workflows for admissions, automated exam scheduling, and an integrated financial invoice/payment engine.",
+  "tags": ["ERP Development", "Database Architecture", "Workflow Automation", "Financial Modules", "Full-Stack"],
+  "link": "#",
+  "imagePath": "/src/assets/training-erp.png",
+  "sortOrder": 8
+}

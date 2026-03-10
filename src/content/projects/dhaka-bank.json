@@ -1,0 +1,8 @@
+{
+  "title": "Dhaka Bank Go",
+  "description": "Engineered core backend APIs for an enterprise mobile banking platform. Optimized critical payment gateways including NPSB and bKash, while implementing secure features for real-time account management and financial transaction processing.",
+  "tags": ["FinTech", "Payment Gateways", "API Optimization", "Banking Security", "NPSB/bKash"],
+  "link": "https://dhakabank.com.bd",
+  "imagePath": "/src/assets/dhaka-bank.png",
+  "sortOrder": 5
+}

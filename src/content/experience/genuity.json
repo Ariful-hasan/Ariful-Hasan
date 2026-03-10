@@ -1,0 +1,17 @@
+{
+  "company": "Genuity Systems",
+  "location": "Dhaka, Bangladesh",
+  "role": "Software Engineer",
+  "startDate": "2015-12-01",
+  "endDate": "2021-06-30",
+  "description": "Full lifecycle development of enterprise-scale communication and ERP systems.",
+  "achievements": [
+    "Optimized scalable web applications using PHP (Laravel, Symfony, CodeIgniter) and Node.js microservices.",
+    "Lead Developer for gPlex Email Module and gSchool; responsible for database schema design and mentoring.",
+    "Developed high-security APIs for Dhaka Bank (NPSB, bKash) and social media Graph API integrations.",
+    "Built 'Teligram,' a full-stack communication platform utilizing WebRTC for real-time synchronization.",
+    "Designed modular ERP components for Real Estate and Inventory Management with automated invoicing.",
+    "Collaborated with QA and PMs to ensure continuous product improvement in agile environments."
+  ],
+  "stack": ["Laravel", "Symfony", "Node.js", "WebRTC", "CodeIgniter", "MySQL", "APIs"]
+}

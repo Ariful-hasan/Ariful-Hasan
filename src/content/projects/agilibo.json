@@ -1,0 +1,16 @@
+{
+  "title": "Agilibo SaaS",
+  "description": "Led the technical restructuring of a 10+ microservices enterprise platform. Architected the core database schema and redesigned the workflow engine and Stripe payment infrastructure to scale Agile transformation for global teams.",
+  "imagePath": "/src/assets/agilibo.png",
+  "tags": [
+    "Stripe",
+    "System Restructuring", 
+    "Microservices Architecture", 
+    "Database Schema Design", 
+    "Fintech / Stripe API", 
+    "Technical Leadership",
+    "PHP 8.0/Node.js"
+  ],
+  "link": "https://github.com/Ariful-Hasan/agilibo",
+  "sortOrder": 2
+}

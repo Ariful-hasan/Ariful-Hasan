@@ -1,0 +1,8 @@
+{
+  "title": "Social Marketing Engine",
+  "description": "Spearheaded the end-to-end development of a centralized marketing platform from scratch. Led both frontend and backend teams while designing the relational database schema and a unified API gateway to handle real-time posting, media synchronization, and automated engagement across Facebook, Instagram, and WhatsApp.",
+  "imagePath": "/src/assets/social-platform.png",
+  "tags": ["Team Lead", "Database Design", "Social APIs", "Real-time Data", "Full-Stack"],
+  "link": "#",
+  "sortOrder": 4
+}

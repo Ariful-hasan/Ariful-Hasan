@@ -1,0 +1,8 @@
+{
+  "title": "gTalk Cloud PBX",
+  "description": "Optimized and expanded a cloud-based business communication platform. Engineered key modules for automated SMS scheduling, dynamic pricing engines, and real-time administrative dashboards to enhance SMB communication workflows.",
+  "tags": ["SaaS Optimization", "Cloud Communication", "Feature Engineering", "Dashboard Analytics", "Automated SMS"],
+  "link": "https://gtalkpbx.com",
+  "imagePath": "/src/assets/gtalk.png",
+  "sortOrder": 6
+}

@@ -1,0 +1,8 @@
+{
+  "title": "CashToCode Payment Ecosystem",
+  "description": "Leading the technical architecture and microservices engineering for the CashToCode (C2C) fintech platform. Engineered high-availability backoffice portals, offline billing services, and automated CI/CD pipelines using AWS and Docker to scale global payment operations.",
+  "tags": ["Fintech Lead", "Microservices", "AWS/Docker", "CI/CD", "PHP 8.4/Node.js"],
+  "link": "https://funanga.com",
+  "imagePath": "/src/assets/funanga.png",
+  "sortOrder": 1
+}

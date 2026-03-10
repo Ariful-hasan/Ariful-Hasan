@@ -1,0 +1,17 @@
+{
+  "company": "Funanga",
+  "location": "Berlin, Germany",
+  "role": "Full-Stack Software Developer",
+  "startDate": "2024-04-01",
+  "endDate": null,
+  "description": "High-availability Fintech environment focusing on platform modernization and AI-driven efficiency.",
+  "achievements": [
+    "Upgraded core Fintech systems to PHP 8.4 and Node.js; implemented RabbitMQ and Redis caching to enhance scalability.",
+    "Boosted development efficiency by 30% through strategic use of Cursor AI for rapid code generation and legacy refactoring.",
+    "Managing containerized microservices (Slim, Laravel, Symfony) using AWS (S3, CloudWatch, IAM).",
+    "Developed advanced Metabase dashboards and complex SQL queries to deliver critical financial insights.",
+    "Engineered modern Angular-based interfaces to streamline financial workflows and UX.",
+    "Optimized GitLab CI/CD pipelines and maintained comprehensive test suites to ensure code stability."
+  ],
+  "stack": ["PHP 8.4", "Node.js", "RabbitMQ", "Redis", "AWS", "Angular", "SQL", "GitLab CI/CD"]
+}

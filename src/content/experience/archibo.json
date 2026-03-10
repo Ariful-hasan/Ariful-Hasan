@@ -1,0 +1,16 @@
+{
+  "company": "Archibo",
+  "location": "Langen, Germany",
+  "role": "Software Engineer",
+  "startDate": "2022-09-01",
+  "endDate": "2024-01-31",
+  "description": "SaaS development for Agile project management and Fintech payment integrations.",
+  "achievements": [
+    "Engineered core features for Agilibo (SaaS) using Laravel 8, Vue.js, and Redis.",
+    "Led Stripe payment gateway integration and optimized checkout architecture, reducing cart abandonment by 25%.",
+    "Implemented scalable modules for data extraction and indexing, improving application performance.",
+    "Delivered production-ready code using Docker and GitLab CI/CD while maintaining high quality via PHPUnit.",
+    "Translated complex business requirements into technical specifications for executive management."
+  ],
+  "stack": ["Laravel 8", "Vue.js", "Redis", "Stripe", "Docker", "PHPUnit", "GitLab CI/CD"]
+}

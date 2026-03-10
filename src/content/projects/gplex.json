@@ -1,0 +1,8 @@
+{
+  "title": "gPlex Contact Center (Email Engine)",
+  "description": "Architected and engineered a mission-critical Email communication module from scratch. Designed the full-stack workflow and relational database schema to handle multi-account synchronization, real-time KPI tracking (IN-KPI), and automated VIP 'Platinum Service' routing for enterprise-scale contact centers.",
+  "tags": ["System Architecture", "Database Design", "Real-time Messaging", "KPI Monitoring", "Enterprise SaaS"],
+  "link": "https://gplex.com",
+  "imagePath": "/src/assets/gplex.png",
+  "sortOrder": 3
+}
