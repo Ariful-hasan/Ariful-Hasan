@@ -2,9 +2,17 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ariful Hasan 
 
 ### Senior Full-Stack Software Developer 
-<!-- > Based in Mülheim an der Ruhr, Germany. Specialized in Fintech (CashToCode), Microservices, and scalable architectures. -->
 
-[![Deploy Portfolio](https://github.com/Ariful-hasan/Ariful-hasan/actions/workflows/deploy.yml/badge.svg)](https://github.com/Ariful-hasan/Ariful-hasan/actions/workflows/deploy.yml)
+
+<!-- [![Deploy Portfolio](https://github.com/Ariful-hasan/Ariful-hasan/actions/workflows/deploy.yml/badge.svg)](https://github.com/Ariful-hasan/Ariful-hasan/actions/workflows/deploy.yml) -->
+
+
+<p align="left">
+  <img src="https://github.com/Ariful-hasan/Ariful-hasan/actions/workflows/deploy.yml/badge.svg" />
+  <img src="https://img.shields.io/github/last-commit/Ariful-hasan/Ariful-hasan?color=blue&style=flat-square" />
+  <img src="https://img.shields.io/github/repo-size/Ariful-hasan/Ariful-hasan?color=green&style=flat-square" />
+</p>
+
 [**View Live Portfolio →**](https://ariful-hasan.github.io/Ariful-hasan/)
 
 ---
@@ -58,7 +66,6 @@ I am a results-driven **Senior Full-Stack Software Engineer** with over a decade
 
 <p align="center">
 <a href="http://www.github.com/Ariful-hasan"><img src="https://github-readme-stats.vercel.app/api?username=Ariful-hasan&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="GitHub stats" /></a>
-<!-- <a href="https://github.com/Ariful-hasan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful-hasan&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" /></a> -->
 </p>
 
 ---
